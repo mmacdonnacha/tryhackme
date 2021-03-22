@@ -19,37 +19,8 @@ What information can you possible get with just one photo?
 **#7** What is this persons password?
 
 
-
 ---
-dl WindowsXP.jpg  
-exiftool WindowsXP.jpg  
-found username and GPS coordinates  
 
-google username  
-found twitter, wordpress and github  
-
-information on twitter  
- - avatar picture cat
- - bssid 
- - base64 messages in tweets
-    - base64 message : try wigle.net
-
-information on wordpress
- - location new york
- - hidden text on page pennYDr0pper.!
-
-information on github 
- - location: london
- - twitter username: @OWoodflint
- - gmail address: OWoodflint@gmail.com
-
-
-Using location of london
-GPS coordintates from exiftool
-BSSID from twitter 
- to get SSID of the WAP
-
----
 
 ## Walkthrough
 First I download the task file for this room.
